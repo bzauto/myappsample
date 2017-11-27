@@ -1,8 +1,1 @@
-<html>
-<head>
-<title> My app </title>
-</head>
-<body>
-This is my app!
-</body>
-</html>
+consol.log("Hello");
